@@ -194,3 +194,31 @@ Promote Supermarket Type 1 outlets within the app.
 * Integrate real-time inventory alerts
 
 * Explore seasonality patterns for category optimization
+
+
+## Repository Structure
+
+├── SQL/
+│   └── blinkit_queries.sql
+│
+├── Python/
+│   └── EDA.ipynb
+│
+├── PowerBI/
+│   └── Blinkit_Dashboard.pbix
+│
+├── Data/
+│   └── Blinkit_Raw.csv
+│
+└── README.md
+
+## Dashboard Preview
+
+<img width="912" height="513" alt="Dashboard" src="https://github.com/user-attachments/assets/063bf8f4-1df9-45d8-bd42-f874d3e3f101" />
+
+## Contact 
+
+Khushi Vadadoriya
+📧 Email: vadadoriyakhushi18@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/khushi-vadadoriya-0977ba249
