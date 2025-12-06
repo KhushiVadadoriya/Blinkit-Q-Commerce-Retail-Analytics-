@@ -199,17 +199,29 @@ Promote Supermarket Type 1 outlets within the app.
 ## Repository Structure
 
 ├── SQL/
+
 │   └── blinkit_queries.sql
+
 │
+
 ├── Python/
+
 │   └── EDA.ipynb
+
 │
+
 ├── PowerBI/
+
 │   └── Blinkit_Dashboard.pbix
+
 │
+
 ├── Data/
+
 │   └── Blinkit_Raw.csv
+
 │
+
 └── README.md
 
 ## Dashboard Preview
