@@ -219,6 +219,7 @@ Promote Supermarket Type 1 outlets within the app.
 ## Contact 
 
 Khushi Vadadoriya
+
 📧 Email: vadadoriyakhushi18@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/khushi-vadadoriya-0977ba249
