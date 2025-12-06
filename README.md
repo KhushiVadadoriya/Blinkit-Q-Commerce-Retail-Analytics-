@@ -200,25 +200,25 @@ Promote Supermarket Type 1 outlets within the app.
 
 ├── SQL/
 
-│   └── blinkit_queries.sql
+│   └── blinkit_analysis.sql
 
 │
 
-├── Python/
+├── Notebooks/
 
-│   └── EDA.ipynb
+│   └── blinit_EDA.ipynb
 
 │
 
-├── PowerBI/
+├── PowerBI-Dashboard/
 
-│   └── Blinkit_Dashboard.pbix
+│   └── Blinkit_performance_report.pbix
 
 │
 
 ├── Data/
 
-│   └── Blinkit_Raw.csv
+│   └── Blinkit_data.csv
 
 │
 
